@@ -5,7 +5,6 @@ export function renderCheckoutHeader() {
     
   
     const totalQuantity = cartQuantity();
-
     const renderCheckout = `<div class="header-content">
     <div class="checkout-header-left-section">
     <a href="index.html">
